@@ -460,7 +460,7 @@
 
 /*** Carousel Hero Header Start ***/
 .hero-section {
-    background-image: url(../img/carousel-1.jpg);
+    background-image: url(../img/align-fingers-71282_1280.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -472,8 +472,8 @@
     overflow: hidden;
 }
 
-.hero-bg-half-1 {
-    background-image: url(../img/header-2.jpg);
+/* .hero-bg-half-1 {
+    background-image: url(../img/align-fingers-71282_1280.jpg);
     clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
     filter: grayscale(15%);
     transform: scale(100% - 50%);
@@ -485,10 +485,10 @@
     height: 100%;
     right: 0;
     top: 0;
-}
+} */
 
-.hero-bg-half-2 {
-    background-image: url(../img/header-1.jpg);
+/* .hero-bg-half-2 {
+    background-image: url(../img/align-fingers-71282_1280.jpg);
     clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
     filter: grayscale(15%);
     transform: scale(100% - 50%);
@@ -500,13 +500,13 @@
     height: 100%;
     right: 0;
     top: 0;
-}
+} */
 
 @media (max-width: 991px) {
     .hero-bg-half-1 {
-        background-image: url(../img/header-2.jpg);
-        clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
-        filter: grayscale(0%);
+        background-image: url(../img/align-fingers-71282_1280.jpgg);
+        /* lip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
+        filter: grayscale(0%); */
         transform: scale(100% - 0%);
         background-position: center center;
         background-repeat: no-repeat;
@@ -517,9 +517,13 @@
         right: 0;
         top: 0;
     }
-
+/* 
     .hero-bg-half-2 {
+<<<<<<< HEAD
         background-image: url(../img/header.jpg);
+=======
+        background-image: url(../img/align-fingers-71282_1280.jpg);
+>>>>>>> f60af50 (:)
         clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
         filter: grayscale(60%);
         transform: scale(100% - 0%);
@@ -531,7 +535,7 @@
         height: 100%;
         right: 0;
         top: 0;
-    }
+    } */
 }
 
 /*** Carousel Hero Header Start ***/
