@@ -521,7 +521,7 @@
     .hero-bg-half-2 {
         background-image: url(../img/header.jpg);
         clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
-        filter: grayscale(0%);
+        filter: grayscale(60%);
         transform: scale(100% - 0%);
         background-position: center center;
         background-repeat: no-repeat;
